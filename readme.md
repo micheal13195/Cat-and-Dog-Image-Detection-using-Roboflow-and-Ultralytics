@@ -1,5 +1,5 @@
 
-# Dog-Cat Detection Project
+# Cat and Dog Image Detection Project
 
 This project builds an object detection model to classify images of dogs and cats using YOLO8.
 
